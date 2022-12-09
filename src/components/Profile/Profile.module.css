@@ -4,6 +4,7 @@
     border-radius: 7px;
     background-color: whitesmoke;
     overflow: hidden;
+    box-shadow: rgba(218, 218, 212, 0.89) 0px 5px 25px 5px;
 }
 
 .description {
@@ -37,7 +38,7 @@
     font-size: 16px;
     font-weight: 400;
     margin-top: 15px;
-    color: rgb(110, 110, 110);
+    color: rgb(209, 176, 176);
 }
 
 .stats {
